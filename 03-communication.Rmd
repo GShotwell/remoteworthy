@@ -1,0 +1,9 @@
+# Communication
+
+## Best practices for email for remote teams
+
+## Slack best practices
+
+## Default to documentation
+
+## Elevate platform, not tone
